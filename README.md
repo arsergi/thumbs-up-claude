@@ -7,7 +7,7 @@ How to use it
   camera
   4. Press q in the camera window to quit
 
-  Options
+  Options 
 
   ┌──────────────┬─────────┬───────────────────────────────────────────────────────────────┐
   │     Flag     │ Default │                         What it does                          │
